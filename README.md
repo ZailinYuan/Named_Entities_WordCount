@@ -6,3 +6,6 @@ Word count on named entities in  a large text file using sparkNlp
 
 * Spark sbt
 * RDD used, no DataFrame used
+
+* sbt version 1.1.1
+* scala version 1.11.8
