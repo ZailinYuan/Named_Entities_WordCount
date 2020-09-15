@@ -5,3 +5,4 @@ Word count on named entities in  a large text file using sparkNlp
 <br><image src="./result.PNG" width=50% />
 
 * Spark sbt
+* RDD used, no DataFrame used
